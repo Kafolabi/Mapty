@@ -348,7 +348,12 @@ a:visited {
   }
 
   .workouts {
-    height: 50vh;
+    /* height: 50vh !important; */
+    height: 40vh;
+  }
+
+  #map {
+    height: 50vh !important;
   }
 
   .form {
